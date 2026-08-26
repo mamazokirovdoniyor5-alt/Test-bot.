@@ -1,4 +1,4 @@
-mport asyncio
+import asyncio
 import logging
 from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import Command
